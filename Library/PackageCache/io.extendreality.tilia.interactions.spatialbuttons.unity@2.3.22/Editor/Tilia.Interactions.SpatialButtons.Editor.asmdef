@@ -1,0 +1,17 @@
+{
+    "name": "Tilia.Interactions.SpatialButtons.Editor",
+    "references": [
+        "Zinnia.Editor",
+        "Tilia.Interactions.SpatialButtons.Runtime"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
